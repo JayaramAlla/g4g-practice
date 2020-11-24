@@ -62,6 +62,5 @@ class Solution {
             r++;
         }
         return list;
-        
     }
 }
